@@ -15,7 +15,7 @@ The nature of a hackathon is very time-limited, but it provides a chance to try 
 
 This was what I wanted to do:
 ![PracticeFlashcard](https://github.com/Li-Jessica/FinanceSimple/blob/main/PracticeFlashcards.png?raw=true)
-This is what I currently have:
+This is what I currently have (flips on hover):
 ![CurrentFlashcards](https://github.com/Li-Jessica/FinanceSimple/blob/main/CurrentFlashcards.png?raw=true)
 ## Accomplishments
 I am very proud of the prototype I have designed in Figma. I have been very interested in front-end development and design for a while, and Shehacks 6 gave me the chance to finally try it out. Overall, I really like the design for my webpage and it definitely helped when I was beginning to implement my idea. 
