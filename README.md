@@ -1,7 +1,7 @@
 # FinanceSimple
 My SheHacks+ 6 2022 Submission
 
-!(https://github.com/Li-Jessica/FinanceSimple/blob/main/MainPage.png)
+!(https://github.com/Li-Jessica/FinanceSimple/blob/main/MainPage.png?raw=true)
 
 ## About FinanceSimple
 FinanceSimple is a project I've made for SheHacks+ 6 2022. It is a brief financial reference guide. Its purpose is to teach and reinforce the concept of financial literacy. This project was first prototyped using Figma and then implemented with HTML, CSS, and Javascript. 
