@@ -21,4 +21,4 @@ This is what I currently have (flips on hover):
 I am very proud of the prototype I have designed in Figma. I have been very interested in front-end development and design for a while, and Shehacks 6 gave me the chance to finally try it out. Overall, I really like the design for my webpage and it definitely helped when I was beginning to implement my idea. 
 
 ## Next Steps for FinanceSimple
-Overall FinanceSimple gave me a great opportunity to try out new front-end and web development and was a good experience. My next steps are to implement a fully functional flashcard game (by using Javascript), as well as improve the responsiveness of my webpage to dynamically fit various device screen sizes. 
+Overall FinanceSimple gave me a great opportunity to try out new front-end and web development. My next steps are to implement a fully functional flashcard game (by using Javascript), as well as improve the responsiveness of my webpage to dynamically fit various device screen sizes. Additionally, I wish to add more content under the Learn page. 
